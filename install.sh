@@ -1,4 +1,5 @@
 apt autoremove
 apt update
-apt install nodejs
+apt install nodejs npm
 nodejs -v
+npm -v

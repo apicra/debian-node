@@ -1,1 +1,1 @@
-git clone https://github.com/apicra/debian-python.git python
+git clone https://github.com/apicra/debian-node.git node
