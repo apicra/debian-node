@@ -1,4 +1,6 @@
-python3 -V
-pip3 -V
-pip3 list
-which python
+#!/bin/bash
+nodejs -v
+#nodejs --version
+npm -v
+node --version
+which node
