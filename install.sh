@@ -1,6 +1,6 @@
 #!/bin/bash
-apt autoremove -y
-apt update -y
-apt install nodejs npm -y
+apt-get autoremove -y
+apt-get update -y
+apt-get install nodejs npm -y
 #curl -sL https://deb.nodesource.com/setup_12.x | sudo bash -
 #apt install nodejs
