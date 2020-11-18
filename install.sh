@@ -1,4 +1,5 @@
 #!/bin/bash
+echo "I will install Node environment"
 apt-get autoremove -y
 apt-get update -y
 apt-get install nodejs npm -y
